@@ -7,7 +7,7 @@ By utilizing deep learning techniques, this project seeks to overcome these issu
 
 “ Deep Learning- Based Alzheimer's classification from Brain MRI Imaging Patterns: Revolutionizing Neurological Disorders detection“
 
-For this Deep learning project as a part of my internship at FeynnLabs, I have taken preprocessed dataset from Kaggle (Alzheimer MRI Preprocessed Dataset (128 x 128))
+For this Deep learning project as a part of my internship at FeynnLabs, I have taken a preprocessed dataset from Kaggle (Alzheimer MRI Preprocessed Dataset (128 x 128))
 
 The Data is collected from several websites/hospitals/public repositories.
 The Dataset consists of Preprocessed MRI (Magnetic Resonance Imaging) Images.
@@ -31,5 +31,9 @@ An example of model prediction
 
 <img width="529" alt="image" src="https://github.com/Praneet-Prabhanjan/Brain_mri_alzheimer_classification/assets/140372429/17ac1875-7efa-4f24-a6a1-5cae313fb271">
 
+**-------------------------------------------------------------------------------------------------------------------------**
+Disclaimer: This is a collaborative project that is entirely adapted from an author (Source: Kaggle), although the author (anonymous) has acheived 97% accuracy. With my limited knowledge in Deep learning, utilizing various AI tools, and suggestions from my mentors. I was able to achieve an accuracy of 90% for this project. I want to give the original author credit for their work. The aim of my work towards this project is solely based on my interests in Alzheiemer's categorization and my understanding of Deep-learning algorithms. This project motivated me, developed my interest in DL, and made me confident to carry out my further activities in DL and programming. Trust me, the work was difficult, but it was my desire to learn DL that motivated me to persevere.
 
+Thank you for visiting.
+**-------------------------------------------------------------------------------------------------------------------------**
 
